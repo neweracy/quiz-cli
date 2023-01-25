@@ -1,7 +1,7 @@
 JavaScript CLI Tool
 
 
-reference: https://github.com/fireship-io/javascript-millionaire/blob/main/README.md
+reference: https://github.com/fireship-io/javascript-millionaire
 
 Packages Used
 chalk | inquirer | gradient-string | chalk-animation | figlet | nanospinner
